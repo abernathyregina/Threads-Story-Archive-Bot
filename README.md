@@ -79,6 +79,7 @@ The Threads Story Archive Bot is an intelligent automation tool designed to capt
 - **Infrastructure:** Dockerized device farms, Cloud emulators, Proxy networks, Parallel execution, Real device farms  
 
 ## Directory Structure
+
 ```
     threads-story-archive-bot/
     │
@@ -105,7 +106,7 @@ The Threads Story Archive Bot is an intelligent automation tool designed to capt
     │
     ├── requirements.txt
     └── README.md
-    ```
+```
 
 ## Use Cases
 
